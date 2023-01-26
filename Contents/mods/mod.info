@@ -6,8 +6,9 @@ icon=icon.png
 
 id=clownmeisterContainerManagement
 
-url=http://theindiestone.com/forums/index.php/topic/2011-how-to-use-the-upcoming-modloader/
-versionMin=41.65
-modVersion=1.1.0
-authors=Lushnis
+url=https://github.com/clownmeister/pzContainerManagement
+versionMin=41.78
+pzversion=41.78
+modVersion=1.0.0
+authors=ClownMeister
 tags=Interface,Multiplayer,Building,Misc
