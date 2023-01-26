@@ -1,0 +1,16 @@
+id=clownmeisterContainerManagement
+authors=ClownMeister
+
+name=ClownMeister's Container Management
+description=No more manual sorting. One of the most annoying chores in PZ is gone! Now with icon management! Go to https://github.com/clownmeister/pzContainerManagement for usage examples and other info.
+url=https://github.com/clownmeister/pzContainerManagement
+tags=Interface,Multiplayer,Building,Misc
+
+poster=poster.png
+icon=icon.png
+
+versionMin=41.78
+pzversion=41.78
+modVersion=1.0.0
+
+require=modoptions

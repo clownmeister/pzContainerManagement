@@ -1,0 +1,11 @@
+IG_UI_EN = {
+    -- Mod
+    IGUI_CCM_FULL_NAME = "ClownMeister's Container Management"
+    IGUI_CCM_SHORT_NAME = "CCM"
+    IGUI_CCM_ON = "CCM on"
+    IGUI_CCM_OFF = "CCM off"
+
+    -- General
+    IGUI_CCM_TEST_CHAR = "TestC",
+    IGUI_CCM_TEST_LOOT = "TestL",
+}

@@ -1,4 +1,0 @@
-UI_EN = {
-    -- General
-    UI_CCM_WELCOME = "Welcome",
-}
